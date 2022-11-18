@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+    background-color: aqua;
+    width: auto;
+    padding: 10px;
+    height: auto;
+    
+}
+.marks{
+    width: 300px;
+    height: auto;
+    padding: 20px;
+    margin: 100px auto;
+    background-color: rgba(0,0,0,0.5);
+}
